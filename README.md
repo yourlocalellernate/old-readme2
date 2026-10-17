@@ -55,11 +55,12 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 
+
 <p align="left">
-${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly <br>
-and sometimes unpredictably, making it difficult to process what were feeling <br>
-before another shift occurs…😥}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$
+${{\color{#919fb8}\tiny{\textsf{we can experience sudden,}}}}$ ${{\color{#919fb8}\tiny{\textsf{frequent changes in our moods and emotions. }}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{making it difficult to process, manage, or regulate how we feel,}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{especially when our emotions become intense..}}}}$ <br>
 
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
