@@ -55,7 +55,11 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{wait}}}}$ <br>
+rapid mood swings <br>
+rapid emotional shifts <br>
+emotional dysregulation <br>
+maladaptive perfectionism <br>
+emotional masking <br>
 
 </details>
 
