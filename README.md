@@ -5,4 +5,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=faf2e1&interchange=false&profanity=false&hide_remaster=false&bar_color=3a4e70&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&redirect=true)
 
-${{\color{#7d1b14}\normalsize{test}$ <br>
+
+$\color{#a8c5dc}{hi}$
