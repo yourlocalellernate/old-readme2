@@ -68,8 +68,9 @@ ${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our 
 
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
-${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations.
-and falling short can leave us feeling frustrated, inadequate, or unable to appreciate what weve made.}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations. }}}}$ <br> 
+${{\color{#919fb8}\tiny{\textsf{and falling short can leave us feeling frustrated, inadequate,}}}}$ <br> 
+${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what weve made.}}}}$ <br>
 
 </details>
 
