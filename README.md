@@ -26,7 +26,7 @@ ${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling 
 
 </details>
 
-<br><br>
+<br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
