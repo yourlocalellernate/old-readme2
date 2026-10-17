@@ -23,7 +23,6 @@ https://discord.gg/ZPw5u3VXHh
 <summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙪𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling face]}}}}$ <br>
-
 </details>
 
 <br>
@@ -50,7 +49,16 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on us.}}}}$<sub>
 </details>
 
+<br>
 
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
+
+${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling face]}}}}$ <br>
+
+</details>
+
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=faf2e1&interchange=false&profanity=false&hide_remaster=false&bar_color=3a4e70&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&redirect=true)
 
