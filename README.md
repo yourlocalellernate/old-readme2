@@ -1,5 +1,5 @@
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\large{\textsf{𝙟𝙤𝙞𝙣 𝙢𝙮 𝙨𝙚𝙧𝙫𝙚𝙧 13+}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙟𝙤𝙞𝙣 𝙢𝙮 𝙨𝙚𝙧𝙫𝙚𝙧 13+}}}}$</summary>
 
 ## ${{\color{#919fb8}\normalsize{\textsf{requirements}}}}$
 ${{\color{#919fb8}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$ <br>
