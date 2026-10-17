@@ -1,11 +1,11 @@
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{𝙟𝙤𝙞𝙣 𝙢𝙮 𝙨𝙚𝙧𝙫𝙚𝙧 13+}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙟𝙤𝙞𝙣 𝙤𝙪𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 13+}}}}$</summary>
 
 ## ${{\color{#919fb8}\normalsize{\textsf{requirements}}}}$
 ${{\color{#919fb8}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{you need to have discord… kinda obvious.}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{your account should be atleast 7 days old or you will be kicked out by our bot sorry. :(}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{mm12 hangout server}}}}$ <br>
 
 https://discord.gg/ZPw5u3VXHh
 
