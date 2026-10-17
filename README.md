@@ -60,7 +60,7 @@ ${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling 
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=faf2e1&interchange=false&profanity=false&hide_remaster=false&bar_color=3a4e70&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=false&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 
 ${{\color{#919fb8}\large{\textsf{text}}}}$
