@@ -8,6 +8,10 @@ ${{\color{#919fb8}\normalsize{\textsf{MUST be 13+}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{you need to have discord… kinda obvious.}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{your account should be atleast 7 days old.}}}}$ <br>
 
+<summary>${{\color{#919fb8}\normalsize{\textsf{click if you fit the requirements}}}}$</summary>
+https://discord.gg/ZPw5u3VXHh
+</details>
+
 </details>
 
 <br><br>
