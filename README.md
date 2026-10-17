@@ -59,13 +59,14 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly and sometimes unpredictably, making it difficult to process what we’re feeling before another shift occurs…😥}}}}$ <br>
 
-
+<p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
 ${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our emotions once they become intense, making it dif to respond to situations the way wed prefer.}}}}$ <br>
 
+<p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
 ${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations, and falling short can leave us feeling frustrated, inadequate, or unable to appreciate what weve made.}}}}$ <br>
-</p>
+
 </details>
 
 <br>
