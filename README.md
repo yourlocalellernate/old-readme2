@@ -15,7 +15,7 @@ https://discord.gg/ZPw5u3VXHh
 
 <p align="center">
 <img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
-<\p>
+</p>
 
 <br><br>
 
@@ -65,7 +65,7 @@ ${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our 
 
 ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
 ${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations, and falling short can leave us feeling frustrated, inadequate, or unable to appreciate what weve made.}}}}$ <br>
-<\p>
+</p>
 </details>
 
 <br>
