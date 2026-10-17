@@ -27,6 +27,8 @@ ${{\color{#919fb8}\normalsize{\textsf{BYEE IM ISAAC/HASPER !! [DROOLS]}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
+${{\color{#919fb8}\normalsize{\textsf{i use prince/princeself and he/him.}}}}$ <br>
+
 ${{\color{#919fb8}\normalsize{\textsf{prince/princeself}}}}$ <br>
 <sub>${{\color{#919fb8}\normalsize{\textsf{i love this… ask first.}}}}$<sub>
 
@@ -42,6 +44,7 @@ ${{\color{#919fb8}\normalsize{\textsf{it/its}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on me.}}}}$<sub>
 </details>
+
 
 </details>
 
