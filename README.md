@@ -24,6 +24,10 @@ https://discord.gg/ZPw5u3VXHh
 
 ${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling face]}}}}$ <br>
 
+</details>
+
+<br><br>
+
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
@@ -45,11 +49,6 @@ ${{\color{#919fb8}\normalsize{\textsf{it/its}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on us.}}}}$<sub>
 </details>
-
-
-</details>
-
-
 
 
 
