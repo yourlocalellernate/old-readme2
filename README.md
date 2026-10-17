@@ -15,7 +15,7 @@ https://discord.gg/ZPw5u3VXHh
 
 <p align="center">
 <img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
-</p>
+<\p>
 
 <br><br>
 
@@ -56,17 +56,16 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 
 <p align="left">
-${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$
-
-${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly and sometimes unpredictably, making it difficult to process what we’re feeling before another shift occurs…😥}}}}$
+${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly and sometimes unpredictably, making it difficult to process what we’re feeling before another shift occurs…😥}}}}$ <br>
 
 
 ${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
-${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our emotions once they become intense, making it dif to respond to situations the way wed prefer.}}}}$
+${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our emotions once they become intense, making it dif to respond to situations the way wed prefer.}}}}$ <br>
 
 ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
-${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations, and falling short can leave us feeling frustrated, inadequate, or unable to appreciate what weve made.}}}}$
-
+${{\color{#919fb8}\tiny{\textsf{we sadly put pressure on ourselves to meet our own expectations, and falling short can leave us feeling frustrated, inadequate, or unable to appreciate what weve made.}}}}$ <br>
+<\p>
 </details>
 
 <br>
