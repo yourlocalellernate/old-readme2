@@ -55,7 +55,7 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling face]}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{wait}}}}$ <br>
 
 </details>
 
