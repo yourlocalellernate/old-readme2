@@ -1,7 +1,7 @@
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙟𝙤𝙞𝙣 𝙤𝙪𝙧 𝙨𝙚𝙧𝙫𝙚𝙧}}}}$</summary>
-
-${{\color{#919fb8}\normalsize{\textsf{hii.. our server provides gamenights, qotd, eoy, and karaoke!!}}}}$ <br>
+  
+${{\color{#919fb8}\normalsize{\textsf{hii..}}}}$ <br>${{\color{#919fb8}\normalsize{\textsf{our server provides gamenights, qotd, eoy, and karaoke!!}}}}$ <br>
 
 ## ${{\color{#919fb8}\normalsize{\textsf{requirements}}}}$
 ${{\color{#919fb8}\normalsize{\textsf{MUST be 13+}}}}$ <br>
