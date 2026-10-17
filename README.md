@@ -20,29 +20,30 @@ https://discord.gg/ZPw5u3VXHh
 <br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙢𝙚}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙪𝙨}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{BYEE IM ISAAC/HASPER !! [DROOLS]}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{hii our name is isaac/hasper !! [drooling face]}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{i use prince/princeself and he/him.}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{first-person plural user hi..}}}}$
 
 ${{\color{#919fb8}\normalsize{\textsf{prince/princeself}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… ask first.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{we love this… ask first.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{he/him}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… use use use.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{we love this… use use use.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{they/them}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{sure… i dont really mind.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{sure… we dont really mind.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{it/its}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{i dont really mind.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{we dont really mind.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on me.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on us.}}}}$<sub>
 </details>
 
 
