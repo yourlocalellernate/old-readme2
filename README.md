@@ -28,10 +28,19 @@ ${{\color{#919fb8}\normalsize{\textsf{BYEE IM ISAAC/HASPER !! [DROOLS]}}}}$ <br>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{prince/princeself}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… ask before using it on me}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… ask first.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{he/him}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… use use use}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… use use use.}}}}$<sub>
+
+${{\color{#919fb8}\normalsize{\textsf{they/them}}}}$ <br>
+<sub>${{\color{#919fb8}\normalsize{\textsf{sure… i dont really mind.}}}}$<sub>
+
+${{\color{#919fb8}\normalsize{\textsf{it/its}}}}$ <br>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i dont really mind.}}}}$<sub>
+
+${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
+<sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on me.}}}}$<sub>
 </details>
 
 </details>
