@@ -64,7 +64,6 @@ ${{\color{#919fb8}\tiny{\textsf{especially when our emotions become intense..}}}
 
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
-
 ${{\color{#919fb8}\tiny{\textsf{we can struggle to process, manage, or calm our emotions once they become intense,}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{making it dif to respond to situations the way wed prefer.}}}}$ <br>
 
