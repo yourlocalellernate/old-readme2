@@ -2,10 +2,15 @@
 <summary>${{\color{#919fb8}\large{\textsf{𝙟𝙤𝙞𝙣 𝙢𝙮 𝙨𝙚𝙧𝙫𝙚𝙧 13+}}}}$</summary>
 
 ## ${{\color{#7d1b14}\normalsize{\textsf{requirements}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{you need to have discord… kinda obvious.}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{your account should be atleast 7 days old or you will be kicked out by our bot sorry. :(}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{you need to have discord… kinda obvious.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{your account should be atleast 7 days old or you will be kicked out by our bot sorry. :(}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{MUST be 13+ if under you will be kicked out.}}}}$ <br>
+
+YAYAY THANKS FOR READING THE REQUIREMENTS!! <br>
+join our server heh <br>
+https://discord.gg/ZPw5u3VXHh <br>
+
 </details>
 
 
