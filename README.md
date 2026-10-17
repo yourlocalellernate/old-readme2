@@ -58,7 +58,7 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$
 
-${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly and sometimes unpredictably, making it difficult to process what we’re feeling before another shift occurs…😥}}}}
+${{\color{#919fb8}\tiny{\textsf{our moods and emotions can change rapidly and sometimes unpredictably, making it difficult to process what we’re feeling before another shift occurs…😥}}}}$
 
 
 ${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
