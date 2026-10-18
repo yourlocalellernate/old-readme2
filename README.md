@@ -24,6 +24,15 @@ https://discord.gg/ZPw5u3VXHh
 
 <br><br>
 
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙩 𝙞𝙣𝙛𝙤}}}}$</summary>
+
+text
+
+</details>
+
+<br><br>
+
  <img width="600" height="200" alt="open section" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6">
 
 <br><br>
@@ -95,7 +104,7 @@ ${{\color{#919fb8}\large{\textsf{text}}}}$
 
 
 <div align="center"> <details>
-<summary>text</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
 
 text
 
