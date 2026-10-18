@@ -74,6 +74,8 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{other…}}}}$</summary>
 
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
@@ -91,6 +93,8 @@ ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
 ${{\color{#919fb8}\tiny{\textsf{i sadly put pressure on ourselves to meet our own expectations. }}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{and falling short can leave us feeling frustrated, inadequate,}}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
+
+</details>
 
 </details>
 
