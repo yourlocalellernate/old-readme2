@@ -24,6 +24,10 @@ https://discord.gg/ZPw5u3VXHh
 
 <br><br>
 
+<img width="2753" height="912" alt="image" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6" />
+
+<br><br>
+
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙪𝙨}}}}$</summary>
 
