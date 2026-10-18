@@ -16,7 +16,7 @@ https://discord.gg/ZPw5u3VXHh
 
 </details>
 
-<br><br>
+<br><br><br><br>
 
 <p align="center">
 <img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
@@ -90,3 +90,12 @@ ${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
 
 
 ${{\color{#919fb8}\large{\textsf{text}}}}$
+
+
+<div align="center"> <details>
+<summary>text</summary>
+
+text
+
+</details>
+
