@@ -73,6 +73,14 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
+  
+<p align="left">
+${{\color{#919fb8}\small{\textsf{dos}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{only speak english to me.}}}}$ <br>
+  
+<p align="left">
+${{\color{#919fb8}\small{\textsf{donts}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{do not piss me off while im upset or uncomfy}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{other…}}}}$</summary>
@@ -90,7 +98,7 @@ ${{\color{#919fb8}\tiny{\textsf{making it dif to respond to situations the way i
 
 <p align="left">
 ${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
-${{\color{#919fb8}\tiny{\textsf{i sadly put pressure on ourselves to meet our own expectations. }}}}$ <br> 
+${{\color{#919fb8}\tiny{\textsf{i sadly put pressure on myself to meet our own expectations. }}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{and falling short can leave us feeling frustrated, inadequate,}}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
 
