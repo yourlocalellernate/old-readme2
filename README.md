@@ -24,12 +24,18 @@ https://discord.gg/ZPw5u3VXHh
 
 <br><br>
 
-<div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙪𝙨}}}}$</summary>
+<details>
+<summary>
+<picture>
+  <img width="300" height="100" alt="open section" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6">
+</picture>
+</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
+
 </details>
+
 
 <br>
 
@@ -95,13 +101,3 @@ text
 
 </details>
 
-<details>
-<summary>
-<picture>
-  <img width="300" height="100" alt="open section" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6">
-</picture>
-</summary>
-
-your hidden content goes here!
-
-</details>
