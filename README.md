@@ -43,7 +43,7 @@ ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{i use prince/princeself and he/him.}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{first-person plural user hi..}}}}$
+${{\color{#919fb8}\normalsize{\textsf{first-person plural user hi.. i still sometimes use i/my ok..}}}}$
 
 ${{\color{#919fb8}\normalsize{\textsf{prince/princeself}}}}$ <br>
 <sub>${{\color{#919fb8}\normalsize{\textsf{we love this… ask first.}}}}$<sub>
