@@ -52,22 +52,21 @@ ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙧𝙤𝙪𝙣𝙤𝙪𝙣𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{i use prince/princeself and he/him.}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{first-person plural user hi.. i still sometimes use i/my ok..}}}}$
 
 ${{\color{#919fb8}\normalsize{\textsf{prince/princeself}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{we love this… ask first.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… ask first.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{he/him}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{we love this… use use use.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i love this… use use use.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{they/them}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{sure… we dont really mind.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{sure… i dont really mind.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{it/its}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{we dont really mind.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{i dont really mind.}}}}$<sub>
 
 ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
-<sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on us.}}}}$<sub>
+<sub>${{\color{#919fb8}\normalsize{\textsf{please do not use this on me.}}}}$<sub>
 </details>
 
 <br>
