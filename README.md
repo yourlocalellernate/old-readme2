@@ -77,7 +77,7 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 
 
 <p align="left">
-${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$
+${{\color{#919fb8}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{i can experience sudden, frequent changes in my moods and emotions. }}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{making it difficult to process, manage, or regulate how i feel,}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
