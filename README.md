@@ -80,7 +80,9 @@ ${{\color{#919fb8}\tiny{\textsf{only speak english to me.}}}}$ <br>
   
 <p align="left">
 ${{\color{#919fb8}\small{\textsf{donts}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{do not piss me off while im upset or uncomfy}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{pissing me off. especially when im upset}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{kissing. i prefer only my friends or partner to do this (ponytown)}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{ect}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{other…}}}}$</summary>
