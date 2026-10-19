@@ -58,7 +58,16 @@ ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
 
-text
+${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
+
+</details>
+
+<br>
+
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙁𝘼𝙉𝘿𝙊𝙈𝙎}}}}$</summary>
+
+${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 
 </details>
 
@@ -67,7 +76,7 @@ text
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
 
-text
+${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 
 </details>
 
@@ -76,16 +85,7 @@ text
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
 
-text
-
-</details>
-
-<br>
-
-<div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
-
-text
+${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 
 </details>
 <br>
