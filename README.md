@@ -73,7 +73,8 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
-  
+<hr>
+
 <p align="left">
 ${{\color{#919fb8}\tiny{\textsf{english speaker}}}}$ <br>
 
@@ -99,7 +100,7 @@ ${{\color{#919fb8}\tiny{\textsf{and falling short can leave us feeling frustrate
 ${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
 
 </details>
-
+<hr>
 </details>
 
 <br>
