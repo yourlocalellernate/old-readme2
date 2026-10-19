@@ -74,7 +74,7 @@ ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 <br>
 
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙢𝙮 𝙁/𝙊’𝙨}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 
@@ -83,7 +83,7 @@ ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 <br>
 
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝙁𝙄𝘾𝙏𝙊𝙆𝙄𝙉𝙎}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 
