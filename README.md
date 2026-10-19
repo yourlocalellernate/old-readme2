@@ -49,6 +49,8 @@ ${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 <hr>
 <br>
 
+${{\color{#919fb8}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
