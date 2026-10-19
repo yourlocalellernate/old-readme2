@@ -52,7 +52,33 @@ ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙄𝙉𝙏𝙀𝙍𝙀𝙎𝙏𝙎}}}}$</summary>
 
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+
 text
+
+</details>
+
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+
+text
+
+</details>
+
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+
+text
+
+</details>
+
+<div align="center"> <details>
+<summary>${{\color{#919fb8}\huge{\textsf{text}}}}$</summary>
+
+text
+
+</details>
 
 </details>
 
