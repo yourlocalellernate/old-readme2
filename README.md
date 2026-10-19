@@ -27,9 +27,12 @@ https://discord.gg/ZPw5u3VXHh
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙥𝙩 𝙞𝙣𝙛𝙤}}}}$</summary>
-
+<hr>
+<br>
 text
-
+<br> 
+<hr>
+${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 </details>
 
 <br><br>
@@ -41,11 +44,14 @@ text
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙢𝙚}}}}$</summary>
 <hr>
+<br>
 
 ${{\color{#919fb8}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
+<br>
 <hr>
+${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 </details>
 
 <br>
