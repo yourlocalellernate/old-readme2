@@ -67,6 +67,8 @@ ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙁𝘼𝙉𝘿𝙊𝙈𝙎}}}}$</summary>
 
+<br>
+
 ${{\color{#919fb8}\normalsize{\textsf{MAYMADNESS2012}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{ROBLOX ADMINS}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{VIOLENT CIRCUMSTANCES}}}}$ <br>
