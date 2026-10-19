@@ -39,10 +39,12 @@ text
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙪𝙨}}}}$</summary>
+<hr>
 
 ${{\color{#919fb8}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
+<hr>
 </details>
 
 
