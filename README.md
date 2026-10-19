@@ -47,7 +47,7 @@ ${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 <br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#919fb8}\huge{\textsf{𝙖𝙗𝙤𝙪𝙩 𝙢𝙚}}}}$</summary>
+<summary>${{\color{#919fb8}\huge{\textsf{𝘼𝘽𝙊𝙐𝙏 𝙈𝙀}}}}$</summary>
 <hr>
 <br>
 
