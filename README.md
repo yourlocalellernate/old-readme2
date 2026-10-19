@@ -67,7 +67,12 @@ ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙁𝘼𝙉𝘿𝙊𝙈𝙎}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{MAYMADNESS2012}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{VIOLEMTCIRUMSTANCES}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{ROBLOX ADMINS}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{CATS ARE LIQUID}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{WARRIOR CATS}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{i am not like the rude people in wcue.}}}}$ <br>
 
 </details>
 
