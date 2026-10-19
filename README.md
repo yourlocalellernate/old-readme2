@@ -47,6 +47,8 @@ ${{\color{#919fb8}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <hr>
 </details>
 
+<br>
+
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨}}}}$</summary>
 
