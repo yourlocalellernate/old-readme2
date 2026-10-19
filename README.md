@@ -141,6 +141,9 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 
 <p align="left">
 ${{\color{#919fb8}\tiny{\textsf{english speaker}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{im sometimes carelessly rude}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{no kisses unless ur a friend or partner}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{i do not mind sexual jokes unless you repeatedly all the time}}}}$ <br>
 
 
 <div align="center"> <details>
@@ -183,5 +186,4 @@ text
 </details>
 
 <hr>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br>
