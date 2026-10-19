@@ -75,16 +75,8 @@ ${{\color{#919fb8}\normalsize{\textsf{she/her}}}}$ <br>
 <summary>${{\color{#919fb8}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
   
 <p align="left">
-${{\color{#919fb8}\small{\textsf{dos}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{speak english, i only understand this language.}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{cuddles and hugs, im okay with it unless i have dni, dniuf, ect on my name. (ponytown)}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{w2i, i prefer this but you can interact without whispering (pony town)}}}}$ <br>
-  
-<p align="left">
-${{\color{#919fb8}\small{\textsf{donts}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{pissing me off, especially when im upset}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{kissing, i prefer only my friends or partner to do this. (ponytown)}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{ect}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{english speaker}}}}$ <br>
+
 
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{other…}}}}$</summary>
