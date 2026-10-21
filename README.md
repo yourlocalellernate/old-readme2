@@ -87,7 +87,7 @@ ${{\color{#919fb8}\normalsize{\textsf{ROBLOX ADMINS}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{VIOLENT CIRCUMSTANCES}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{CATS ARE LIQUID}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{WARRIORCATS}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{i am not like the rude people in wcue.}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{not a toxic person in wcue}}}}$ <br>
 
 </details>
 
