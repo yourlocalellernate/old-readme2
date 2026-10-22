@@ -99,7 +99,9 @@ ${{\color{#919fb8}\tiny{\textsf{not a toxic person in wcue}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙢𝙮 𝙁/𝙊’𝙨}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{stickmasterluke (void sharing}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{caleb244 (mirror sharing)}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{klaus lunettes (non sharing)}}}}$ <br>
 
 </details>
 
@@ -108,7 +110,8 @@ ${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙁𝙄𝘾𝙏𝙊𝙆𝙄𝙉𝙎}}}}$</summary>
 
-${{\color{#919fb8}\normalsize{\textsf{text}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{ellernate (doubles are fine)}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{wait}}}}$ <br>
 
 </details>
 <br>
