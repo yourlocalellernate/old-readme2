@@ -1,4 +1,6 @@
 hi i forgot to edit my atabook pls dont kill me
+
+also same user on every social except tikitakis
 <br>
 <hr>
 <br><br><br><br>
