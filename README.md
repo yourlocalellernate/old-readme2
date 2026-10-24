@@ -31,6 +31,8 @@ https://discord.gg/ZPw5u3VXHh
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
 </p>
 
+<p align="center">
+𓎢𓎠𓎟𓎠𓎠𓎟𓎠𓎡
 <br><br>
 
 <div align="center"> <details>
