@@ -25,7 +25,7 @@ https://discord.gg/ZPw5u3VXHh
 <br><br><br>
 
 <p align="center">
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/03ed3023-961a-4152-9a69-ea37520b2503" />
 </p>
 
 <p align="center">
