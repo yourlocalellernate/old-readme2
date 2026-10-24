@@ -44,7 +44,7 @@ ${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 
 <br><br>
 
- <img width="600" height="200" alt="open section" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6">
+ <img width="400" height="100" alt="open section" src="https://github.com/user-attachments/assets/d3d11a9c-e84b-4a41-bf2a-06d14c200da6">
 
 <br><br>
 
