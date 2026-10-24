@@ -1,6 +1,3 @@
-hi i forgot to edit my atabook pls dont kill me
-
-also same user on every social except tikitakis
 <br>
 <hr>
 <br><br><br><br>
@@ -113,7 +110,7 @@ ${{\color{#919fb8}\normalsize{\textsf{klaus lunettes (non sharing)}}}}$ <br>
 <summary>${{\color{#919fb8}\huge{\textsf{𝙁𝙄𝘾𝙏𝙊𝙆𝙄𝙉𝙎}}}}$</summary>
 
 ${{\color{#919fb8}\normalsize{\textsf{ellernate (doubles are fine)}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{wait}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{asami (doubles are fine)}}}}$ <br>
 
 </details>
 <br>
@@ -131,7 +128,7 @@ ${{\color{#919fb8}\huge{\textsf{⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔}}}}$
 ${{\color{#919fb8}\tiny{\textsf{english speaker}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{im sometimes carelessly rude}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{no kisses unless ur a friend or partner}}}}$ <br>
-${{\color{#919fb8}\tiny{\textsf{i do not mind sexual jokes unless you repeatedly all the time}}}}$ <br>
+${{\color{#919fb8}\tiny{\textsf{i really do not mind sexual jokes unless said repeatedly all the time}}}}$ <br>
 
 
 <div align="center"> <details>
