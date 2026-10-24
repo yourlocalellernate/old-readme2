@@ -142,12 +142,12 @@ ${{\color{#919fb8}\tiny{\textsf{making it difficult to process, manage, or regul
 ${{\color{#919fb8}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
 
 <p align="left">
-${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$
+${{\color{#919fb8}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{i can struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{making it dif to respond to situations the way id prefer.}}}}$ <br>
 
 <p align="left">
-${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$
+${{\color{#919fb8}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 ${{\color{#919fb8}\tiny{\textsf{i sadly put pressure on myself to meet my own expectations. }}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{and falling short can leave me feeling frustrated, inadequate,}}}}$ <br> 
 ${{\color{#919fb8}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
