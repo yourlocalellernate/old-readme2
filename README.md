@@ -11,8 +11,7 @@ also same user on every social except tikitakis
 ${{\color{#919fb8}\normalsize{\textsf{hii..}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{this server is caleb244 themed there is mm12 fans. }}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{and our server provides gamenights, qotd, eoy, and karaoke so you must join !!}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{server based on caleb244.}}}}$ <br>
-${{\color{#919fb8}\small{\textsf{multifandom people allowed.}}}}$ <br>
+${{\color{#919fb8}\small{\textsf{people from other fandoms are allowed.}}}}$ <br>
 
 ## ${{\color{#919fb8}\normalsize{\textsf{requirements}}}}$
 ${{\color{#919fb8}\normalsize{\textsf{MUST be 13+}}}}$ <br>
