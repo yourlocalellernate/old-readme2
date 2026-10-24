@@ -9,7 +9,7 @@ also same user on every social except tikitakis
 <summary>${{\color{#919fb8}\huge{\textsf{𝙟𝙤𝙞𝙣 𝙤𝙪𝙧 𝙨𝙚𝙧𝙫𝙚𝙧}}}}$</summary>
   
 ${{\color{#919fb8}\normalsize{\textsf{hii..}}}}$ <br>
-${{\color{#919fb8}\normalsize{\textsf{this server is a mm12 server which there is mm12 fans. and our server provides gamenights, qotd, eoy, and karaoke!!}}}}$ <br>
+${{\color{#919fb8}\normalsize{\textsf{this server is caleb244 themed there is mm12 fans. and our server provides gamenights, qotd, eoy, and karaoke so you must join !!}}}}$ <br>
 ${{\color{#919fb8}\normalsize{\textsf{server based on caleb244.}}}}$ <br>
 ${{\color{#919fb8}\small{\textsf{multifandom people allowed.}}}}$ <br>
 
